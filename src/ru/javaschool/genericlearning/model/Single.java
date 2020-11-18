@@ -1,4 +1,4 @@
-package ru.akalinkina.genericlearning.model;
+package ru.javaschool.genericlearning.model;
 
 public class Single<T> {
 

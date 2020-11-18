@@ -1,9 +1,9 @@
-package ru.akalinkina.genericlearning;
+package ru.javaschool.genericlearning;
 
-import ru.akalinkina.common.model.Person;
-import ru.akalinkina.genericlearning.model.FullPerson;
-import ru.akalinkina.genericlearning.model.FullishPerson;
-import ru.akalinkina.genericlearning.model.Single;
+import ru.javaschool.common.model.Person;
+import ru.javaschool.genericlearning.model.FullPerson;
+import ru.javaschool.genericlearning.model.FullishPerson;
+import ru.javaschool.genericlearning.model.Single;
 
 import java.time.LocalDate;
 

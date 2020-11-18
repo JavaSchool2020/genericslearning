@@ -1,4 +1,4 @@
-package ru.akalinkina.common.model;
+package ru.javaschool.common.model;
 
 import java.time.LocalDate;
 import java.util.Objects;

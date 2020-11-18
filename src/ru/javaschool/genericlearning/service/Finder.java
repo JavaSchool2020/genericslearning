@@ -1,6 +1,6 @@
-package ru.akalinkina.genericlearning.service;
+package ru.javaschool.genericlearning.service;
 
-import ru.akalinkina.common.model.Person;
+import ru.javaschool.common.model.Person;
 
 import java.util.Collection;
 import java.util.Iterator;

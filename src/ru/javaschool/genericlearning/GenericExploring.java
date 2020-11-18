@@ -1,7 +1,7 @@
-package ru.akalinkina.genericlearning;
+package ru.javaschool.genericlearning;
 
-import ru.akalinkina.genericlearning.model.Pair;
-import ru.akalinkina.genericlearning.model.Single;
+import ru.javaschool.genericlearning.model.Pair;
+import ru.javaschool.genericlearning.model.Single;
 
 import java.math.BigDecimal;
 

@@ -1,19 +1,22 @@
-package ru.akalinkina.genericlearning;
+package ru.javaschool.genericlearning;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class OldStyle {
+public class GenericStyle {
     public static void main(String[] args) {
-        List strList = new ArrayList();
+
+        List<String> strList = new ArrayList<>();
         strList.add("mum");
 
         //ошибка компиляции
-        strList.add(1);
+        //strList.add(1);
+        strList.add("dad");
 
         //ошибка компиляции
-        Integer element = (Integer) strList.get(0);
+        String element = strList.get(0);
 
         System.out.println(element);
+
     }
 }

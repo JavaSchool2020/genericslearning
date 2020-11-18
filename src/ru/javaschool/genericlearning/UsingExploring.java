@@ -1,8 +1,8 @@
-package ru.akalinkina.genericlearning;
+package ru.javaschool.genericlearning;
 
-import ru.akalinkina.genericlearning.model.*;
-import ru.akalinkina.genericlearning.service.FindOlder;
-import ru.akalinkina.genericlearning.service.Finder;
+import ru.javaschool.genericlearning.model.*;
+import ru.javaschool.genericlearning.service.FindOlder;
+import ru.javaschool.genericlearning.service.Finder;
 
 import java.time.LocalDate;
 import java.util.Arrays;

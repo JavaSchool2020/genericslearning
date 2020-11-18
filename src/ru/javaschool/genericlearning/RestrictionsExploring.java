@@ -1,4 +1,4 @@
-package ru.akalinkina.genericlearning;
+package ru.javaschool.genericlearning;
 
 public class RestrictionsExploring<T> {
     // 4 public static T value;

@@ -1,6 +1,6 @@
-package ru.akalinkina.genericlearning.service;
+package ru.javaschool.genericlearning.service;
 
-import ru.akalinkina.genericlearning.model.FullPerson;
+import ru.javaschool.genericlearning.model.FullPerson;
 
 import java.time.LocalDate;
 

@@ -1,4 +1,4 @@
-package ru.akalinkina.common.model;
+package ru.javaschool.common.model;
 
 import java.math.BigDecimal;
 import java.util.Objects;
